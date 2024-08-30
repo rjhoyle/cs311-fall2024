@@ -6,7 +6,7 @@ site.title: CSCI 311 - Fall 2024
 layout: default
 ---
 
-**Lectures:** | MWF, 11:00AM -- 11:50AM, Somewhere in Oberlin College...
+**Lectures:** | MWF, 2:30PM -- 3:20PM, King 323
 **Instructor:** | Roberto Hoyle (roberto.hoyle@oberlin.edu)
 **Office:** | Rice 108
 **Office Hours:** | Tuesday 9am - 11am, Wednesday 9am - 10am, or by appointment

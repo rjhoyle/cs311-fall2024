@@ -14,15 +14,13 @@ permalink: /policies/
 
 Grades will be calculated based on the following distribution:
 
-* <b>45%</b> - Homework/Projects
-* <b>20%</b> - Reading Quizzes (on Blackboard)
+* <b>40%</b> - Homework
+* <b>10%</b> - Reading Quizzes (on Blackboard)
 * <b>10%</b> - Class/Slack participation
-* <b>25%</b> - Final project (not optional)
+* <b>20%</b> - Midterm Exam
+* <b>20%</b> - Final Exam
 
 The distribution might be adjusted based on the progression of the course.
-
-
-Students who abandon their groups and do not do work on the final project will automatically fail the class, regardless of the rest of their grade.
 
 ## Attendance
 Regular class attendance and participation is expected.  Please talk to me
@@ -37,16 +35,6 @@ There will be a number of assignments made in this class.  I expect every
 student to attempt each assignment and turn in the results.  You are
 encouraged to complete every assignment as this is one of the most
 effective ways to learn the material.
-
-Assignments will be graded on a scale of:
-* <b>S+</b> &mdash; Exceeded expectations
-* <b>S</b> &mdash; Satisfactory.  All main components of the assignment completed
-* <b>S-</b> &mdash; Program needs improvement, or not fully implemented
-* <b>U</b> &mdash; Unsatisfactory.  Program does not compile, or major elements missing
-
-To get a grade of <b>S+</b>, you'll need to do some of the extra credit sections on the assignments.  Doing the regular sections of the assignments correctly will get you a grade of <b>S</b>, which will translate to around a median grade for the semester.  If you want to get an A, you'll need to get some <b>S+</b> grades.
-
-  Submitting assignments that do not compile, or are otherwise heavily broken, will result in an automatic grade of <b>U</b>.
 
 You have 4 automatic extensions given to you during the semester which 
 you can use for the homework assignments.  Please note, this is 4 extensions
@@ -65,18 +53,6 @@ Reading quizzes will be posted and due before each class.  Each quiz will be due
 
 You have unlimited attempts to do the quizzes.
 
-<!-- 
-<p>
-    <b>Late assignments will be penalized according to the following chart.</b>
-    Extra credit will not be accepted after the initial deadline.
-</p>
-<ul>
-    <b>-10%</b> - within 12 hours of deadline
-    <b>-20%</b> - within 24 hours
-    <b>-40%</b> - within 48 hours
-    <b>-60%</b> - within 72 hours
-</ul>
--->
 
 ## Accommodations for students with disabilities
 If you have a disability that might impact your performance in this course, or requires special accommodation, please contact me as soon as possible so that appropriate arrangements can be made.
