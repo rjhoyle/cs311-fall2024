@@ -14,8 +14,8 @@ Date | Topic | Reading | HW
 **Week 1** |||
 Aug 30 | Introduction and Course Overview | Ch. 1 | | 
 **Week 2** | Relational Model and Relational Algebra ||
-Sep 04 | Relational Model | Ch. 2 - 2.5 | HW 01 out | 
-Sep 06 | Relational Algebra | Ch. 2.6 |  | 
+Sep 04 | Relational Model | Ch. 1, Ch. 2 - 2.3 | HW 01 out | 
+Sep 06 | Relational Algebra | Ch. 2.4 - 2.6 |  | 
 **Week 3** | SQL ||
 Sep 09 | SQL | Ch. 3.0 - 3.3 |
 Sep 11 | SQL | Ch. 3.4 - 3.7 |
