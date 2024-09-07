@@ -17,9 +17,9 @@ Aug 30 | Introduction and Course Overview | Ch. 1 | |
 Sep 04 | Relational Model | Ch. 1, Ch. 2 - 2.3 | HW 01 out | 
 Sep 06 | Relational Algebra | Ch. 2.4 - 2.6 |  | 
 **Week 3** | SQL ||
-Sep 09 | SQL | Ch. 3.0 - 3.3 |
-Sep 11 | SQL | Ch. 3.4 - 3.7 |
-Sep 13 | SQL | Ch. 3.8 - 3.10 | HW 01 due | 
+Sep 09 | Relational Algebra | Ch. 2.6 |
+Sep 11 | SQL | Ch. 3.0 - 3.5 |
+Sep 13 | SQL | Ch. 3.6 - 3.10 | HW 01 due | 
 **Week 4** | SQL and Database Design||
 Sep 16 | SQL | Ch. 4.0 - 4.2 | HW 02 out |
 Sep 18 | SQL | Ch. 4.3 - 4.8 |
