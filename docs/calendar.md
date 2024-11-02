@@ -45,7 +45,7 @@ Oct 18 | Midterm ||
 Oct 28 | Web Development | | HW 4 Out 
 Oct 30 | Data Storage | Ch 12 - 12.4 |
 Nov 01 | Data Storage| Ch 12.5 - 12.6 |
-**Week 10** | Indexing | Ch 14 |
+**Week 10** | Files and Indexing |  |
 Nov 04 | File Organization | Ch 13 - 13.3 |
 Nov 06 | Indexing | Ch 14 - 14.2 |
 Nov 08 | B+ Trees | Ch. 14.3 | HW 4 Due (Sunday)
